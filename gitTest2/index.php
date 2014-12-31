@@ -11,12 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
-        //djhfdjgbdfi
-       // jsahdhfjsdhfds
-       // sdjhfsjdhfdsdf
-        //
         
+        // this is a test project
+
+       
         ?>
     </body>
 </html>
